@@ -17,4 +17,4 @@ end
 xena = Dog.new
 xena.name = "Xena"
 
-xena.name
+puts xena.name
