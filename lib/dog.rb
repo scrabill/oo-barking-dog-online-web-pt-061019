@@ -5,6 +5,7 @@ class Dog
     @this_dog_name = dog_name
   end
 
-  def name
-    puts name
+  def name(dog_name)
+    puts dog_name
+  d
 end
