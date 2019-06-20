@@ -9,10 +9,10 @@ class Dog
     puts @this_dog_name # Prints out the dog name
   end
 
-  Xena = Dog.new
-  Xena.name = "Xena"
+  xena = Dog.new
+  xena.name = "Xena"
 
-  Xena.name
+  xena.name
 
 
   def bark
