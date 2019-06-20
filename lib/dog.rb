@@ -10,6 +10,8 @@ class Dog
   end
 
   Xena = Dog.new
+  Xena.name = "Xena"
+  
 
   def bark
     puts "woof!" # Makes the dog bark
