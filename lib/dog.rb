@@ -12,6 +12,8 @@ class Dog
   Xena = Dog.new
   Xena.name = "Xena"
 
+  Xena.name
+
 
   def bark
     puts "woof!" # Makes the dog bark
