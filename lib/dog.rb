@@ -13,3 +13,8 @@ class Dog
     puts "woof!" # Makes the dog bark
   end
 end
+
+xena = Dog.new
+xena.name = "Xena"
+
+xena.name
